@@ -61,7 +61,7 @@ boto==2.49.0
     # via
     #   -r requirements-tests.txt
     #   moto
-botocore==1.20.27
+botocore==1.20.33
     # via
     #   -r requirements-docs.in
     #   -r requirements-tests.txt
@@ -150,7 +150,7 @@ ecdsa==0.14.1
     #   sshpubkeys
 factory-boy==3.2.0
     # via -r requirements-tests.txt
-faker==6.5.0
+faker==6.6.2
     # via
     #   -r requirements-tests.txt
     #   factory-boy
@@ -172,7 +172,7 @@ flask-restful==0.3.8
     # via -r requirements-docs.in
 flask-script==2.0.6
     # via -r requirements-docs.in
-flask-sqlalchemy==2.4.4
+flask-sqlalchemy==2.5.1
     # via
     #   -r requirements-docs.in
     #   flask-migrate
@@ -510,7 +510,7 @@ soupsieve==2.0.1
     # via beautifulsoup4
 sphinx-rtd-theme==0.5.1
     # via -r requirements-docs.in
-sphinx==3.5.2
+sphinx==3.5.3
     # via
     #   -r requirements-docs.in
     #   sphinx-rtd-theme
